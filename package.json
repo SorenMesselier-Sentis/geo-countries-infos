@@ -1,0 +1,19 @@
+{
+  "name": "geo-countries-infos",
+  "version": "1.0.0",
+  "description": "This is a package for managing countries in your code by using geonames",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "fetch-base": "node scripts/fetchBase.js",
+    "enrich-countries": "node scripts/enrichCountries.js",
+    "get-country": "node scripts/getCountry.js"
+  },
+  "author": "SorenMesselier-Sentis",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0"
+  }
+}

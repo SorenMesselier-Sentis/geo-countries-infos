@@ -1,0 +1,7 @@
+# Misc
+.idea
+
+# Dependency directories
+node_modules/
+
+.env

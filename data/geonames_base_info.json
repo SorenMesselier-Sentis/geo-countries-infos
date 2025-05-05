@@ -1,0 +1,2502 @@
+[
+  {
+    "isoAlpha2": "AD",
+    "isoAlpha3": "AND",
+    "isoNumeric": "020",
+    "fipsCode": "AN",
+    "countryName": "Andorra",
+    "capital": "Andorra la Vella",
+    "continentCode": "EU",
+    "detailPath": "/countries/AD/andorra.html"
+  },
+  {
+    "isoAlpha2": "AE",
+    "isoAlpha3": "ARE",
+    "isoNumeric": "784",
+    "fipsCode": "AE",
+    "countryName": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "continentCode": "AS",
+    "detailPath": "/countries/AE/united-arab-emirates.html"
+  },
+  {
+    "isoAlpha2": "AF",
+    "isoAlpha3": "AFG",
+    "isoNumeric": "004",
+    "fipsCode": "AF",
+    "countryName": "Afghanistan",
+    "capital": "Kabul",
+    "continentCode": "AS",
+    "detailPath": "/countries/AF/afghanistan.html"
+  },
+  {
+    "isoAlpha2": "AG",
+    "isoAlpha3": "ATG",
+    "isoNumeric": "028",
+    "fipsCode": "AC",
+    "countryName": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "continentCode": "NA",
+    "detailPath": "/countries/AG/antigua-and-barbuda.html"
+  },
+  {
+    "isoAlpha2": "AI",
+    "isoAlpha3": "AIA",
+    "isoNumeric": "660",
+    "fipsCode": "AV",
+    "countryName": "Anguilla",
+    "capital": "The Valley",
+    "continentCode": "NA",
+    "detailPath": "/countries/AI/anguilla.html"
+  },
+  {
+    "isoAlpha2": "AL",
+    "isoAlpha3": "ALB",
+    "isoNumeric": "008",
+    "fipsCode": "AL",
+    "countryName": "Albania",
+    "capital": "Tirana",
+    "continentCode": "EU",
+    "detailPath": "/countries/AL/albania.html"
+  },
+  {
+    "isoAlpha2": "AM",
+    "isoAlpha3": "ARM",
+    "isoNumeric": "051",
+    "fipsCode": "AM",
+    "countryName": "Armenia",
+    "capital": "Yerevan",
+    "continentCode": "AS",
+    "detailPath": "/countries/AM/armenia.html"
+  },
+  {
+    "isoAlpha2": "AO",
+    "isoAlpha3": "AGO",
+    "isoNumeric": "024",
+    "fipsCode": "AO",
+    "countryName": "Angola",
+    "capital": "Luanda",
+    "continentCode": "AF",
+    "detailPath": "/countries/AO/angola.html"
+  },
+  {
+    "isoAlpha2": "AQ",
+    "isoAlpha3": "ATA",
+    "isoNumeric": "010",
+    "fipsCode": "AY",
+    "countryName": "Antarctica",
+    "capital": "",
+    "continentCode": "AN",
+    "detailPath": "/countries/AQ/antarctica.html"
+  },
+  {
+    "isoAlpha2": "AR",
+    "isoAlpha3": "ARG",
+    "isoNumeric": "032",
+    "fipsCode": "AR",
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "continentCode": "SA",
+    "detailPath": "/countries/AR/argentina.html"
+  },
+  {
+    "isoAlpha2": "AS",
+    "isoAlpha3": "ASM",
+    "isoNumeric": "016",
+    "fipsCode": "AQ",
+    "countryName": "American Samoa",
+    "capital": "Pago Pago",
+    "continentCode": "OC",
+    "detailPath": "/countries/AS/american-samoa.html"
+  },
+  {
+    "isoAlpha2": "AT",
+    "isoAlpha3": "AUT",
+    "isoNumeric": "040",
+    "fipsCode": "AU",
+    "countryName": "Austria",
+    "capital": "Vienna",
+    "continentCode": "EU",
+    "detailPath": "/countries/AT/austria.html"
+  },
+  {
+    "isoAlpha2": "AU",
+    "isoAlpha3": "AUS",
+    "isoNumeric": "036",
+    "fipsCode": "AS",
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "continentCode": "OC",
+    "detailPath": "/countries/AU/australia.html"
+  },
+  {
+    "isoAlpha2": "AW",
+    "isoAlpha3": "ABW",
+    "isoNumeric": "533",
+    "fipsCode": "AA",
+    "countryName": "Aruba",
+    "capital": "Oranjestad",
+    "continentCode": "NA",
+    "detailPath": "/countries/AW/aruba.html"
+  },
+  {
+    "isoAlpha2": "AX",
+    "isoAlpha3": "ALA",
+    "isoNumeric": "248",
+    "fipsCode": "",
+    "countryName": "Åland",
+    "capital": "Mariehamn",
+    "continentCode": "EU",
+    "detailPath": "/countries/AX/aland.html"
+  },
+  {
+    "isoAlpha2": "AZ",
+    "isoAlpha3": "AZE",
+    "isoNumeric": "031",
+    "fipsCode": "AJ",
+    "countryName": "Azerbaijan",
+    "capital": "Baku",
+    "continentCode": "AS",
+    "detailPath": "/countries/AZ/azerbaijan.html"
+  },
+  {
+    "isoAlpha2": "BA",
+    "isoAlpha3": "BIH",
+    "isoNumeric": "070",
+    "fipsCode": "BK",
+    "countryName": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continentCode": "EU",
+    "detailPath": "/countries/BA/bosnia-and-herzegovina.html"
+  },
+  {
+    "isoAlpha2": "BB",
+    "isoAlpha3": "BRB",
+    "isoNumeric": "052",
+    "fipsCode": "BB",
+    "countryName": "Barbados",
+    "capital": "Bridgetown",
+    "continentCode": "NA",
+    "detailPath": "/countries/BB/barbados.html"
+  },
+  {
+    "isoAlpha2": "BD",
+    "isoAlpha3": "BGD",
+    "isoNumeric": "050",
+    "fipsCode": "BG",
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "continentCode": "AS",
+    "detailPath": "/countries/BD/bangladesh.html"
+  },
+  {
+    "isoAlpha2": "BE",
+    "isoAlpha3": "BEL",
+    "isoNumeric": "056",
+    "fipsCode": "BE",
+    "countryName": "Belgium",
+    "capital": "Brussels",
+    "continentCode": "EU",
+    "detailPath": "/countries/BE/belgium.html"
+  },
+  {
+    "isoAlpha2": "BF",
+    "isoAlpha3": "BFA",
+    "isoNumeric": "854",
+    "fipsCode": "UV",
+    "countryName": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continentCode": "AF",
+    "detailPath": "/countries/BF/burkina-faso.html"
+  },
+  {
+    "isoAlpha2": "BG",
+    "isoAlpha3": "BGR",
+    "isoNumeric": "100",
+    "fipsCode": "BU",
+    "countryName": "Bulgaria",
+    "capital": "Sofia",
+    "continentCode": "EU",
+    "detailPath": "/countries/BG/bulgaria.html"
+  },
+  {
+    "isoAlpha2": "BH",
+    "isoAlpha3": "BHR",
+    "isoNumeric": "048",
+    "fipsCode": "BA",
+    "countryName": "Bahrain",
+    "capital": "Manama",
+    "continentCode": "AS",
+    "detailPath": "/countries/BH/bahrain.html"
+  },
+  {
+    "isoAlpha2": "BI",
+    "isoAlpha3": "BDI",
+    "isoNumeric": "108",
+    "fipsCode": "BY",
+    "countryName": "Burundi",
+    "capital": "Gitega",
+    "continentCode": "AF",
+    "detailPath": "/countries/BI/burundi.html"
+  },
+  {
+    "isoAlpha2": "BJ",
+    "isoAlpha3": "BEN",
+    "isoNumeric": "204",
+    "fipsCode": "BN",
+    "countryName": "Benin",
+    "capital": "Porto-Novo",
+    "continentCode": "AF",
+    "detailPath": "/countries/BJ/benin.html"
+  },
+  {
+    "isoAlpha2": "BL",
+    "isoAlpha3": "BLM",
+    "isoNumeric": "652",
+    "fipsCode": "TB",
+    "countryName": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "continentCode": "NA",
+    "detailPath": "/countries/BL/saint-barthelemy.html"
+  },
+  {
+    "isoAlpha2": "BM",
+    "isoAlpha3": "BMU",
+    "isoNumeric": "060",
+    "fipsCode": "BD",
+    "countryName": "Bermuda",
+    "capital": "Hamilton",
+    "continentCode": "NA",
+    "detailPath": "/countries/BM/bermuda.html"
+  },
+  {
+    "isoAlpha2": "BN",
+    "isoAlpha3": "BRN",
+    "isoNumeric": "096",
+    "fipsCode": "BX",
+    "countryName": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "continentCode": "AS",
+    "detailPath": "/countries/BN/brunei.html"
+  },
+  {
+    "isoAlpha2": "BO",
+    "isoAlpha3": "BOL",
+    "isoNumeric": "068",
+    "fipsCode": "BL",
+    "countryName": "Bolivia",
+    "capital": "Sucre",
+    "continentCode": "SA",
+    "detailPath": "/countries/BO/bolivia.html"
+  },
+  {
+    "isoAlpha2": "BQ",
+    "isoAlpha3": "BES",
+    "isoNumeric": "535",
+    "fipsCode": "",
+    "countryName": "Bonaire, Sint Eustatius, and Saba",
+    "capital": "",
+    "continentCode": "NA",
+    "detailPath": "/countries/BQ/bonaire-sint-eustatius-and-saba.html"
+  },
+  {
+    "isoAlpha2": "BR",
+    "isoAlpha3": "BRA",
+    "isoNumeric": "076",
+    "fipsCode": "BR",
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "continentCode": "SA",
+    "detailPath": "/countries/BR/brazil.html"
+  },
+  {
+    "isoAlpha2": "BS",
+    "isoAlpha3": "BHS",
+    "isoNumeric": "044",
+    "fipsCode": "BF",
+    "countryName": "Bahamas",
+    "capital": "Nassau",
+    "continentCode": "NA",
+    "detailPath": "/countries/BS/bahamas.html"
+  },
+  {
+    "isoAlpha2": "BT",
+    "isoAlpha3": "BTN",
+    "isoNumeric": "064",
+    "fipsCode": "BT",
+    "countryName": "Bhutan",
+    "capital": "Thimphu",
+    "continentCode": "AS",
+    "detailPath": "/countries/BT/bhutan.html"
+  },
+  {
+    "isoAlpha2": "BV",
+    "isoAlpha3": "BVT",
+    "isoNumeric": "074",
+    "fipsCode": "BV",
+    "countryName": "Bouvet Island",
+    "capital": "",
+    "continentCode": "AN",
+    "detailPath": "/countries/BV/bouvet-island.html"
+  },
+  {
+    "isoAlpha2": "BW",
+    "isoAlpha3": "BWA",
+    "isoNumeric": "072",
+    "fipsCode": "BC",
+    "countryName": "Botswana",
+    "capital": "Gaborone",
+    "continentCode": "AF",
+    "detailPath": "/countries/BW/botswana.html"
+  },
+  {
+    "isoAlpha2": "BY",
+    "isoAlpha3": "BLR",
+    "isoNumeric": "112",
+    "fipsCode": "BO",
+    "countryName": "Belarus",
+    "capital": "Minsk",
+    "continentCode": "EU",
+    "detailPath": "/countries/BY/belarus.html"
+  },
+  {
+    "isoAlpha2": "BZ",
+    "isoAlpha3": "BLZ",
+    "isoNumeric": "084",
+    "fipsCode": "BH",
+    "countryName": "Belize",
+    "capital": "Belmopan",
+    "continentCode": "NA",
+    "detailPath": "/countries/BZ/belize.html"
+  },
+  {
+    "isoAlpha2": "CA",
+    "isoAlpha3": "CAN",
+    "isoNumeric": "124",
+    "fipsCode": "CA",
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "continentCode": "NA",
+    "detailPath": "/countries/CA/canada.html"
+  },
+  {
+    "isoAlpha2": "CC",
+    "isoAlpha3": "CCK",
+    "isoNumeric": "166",
+    "fipsCode": "CK",
+    "countryName": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "continentCode": "AS",
+    "detailPath": "/countries/CC/cocos-keeling-islands.html"
+  },
+  {
+    "isoAlpha2": "CD",
+    "isoAlpha3": "COD",
+    "isoNumeric": "180",
+    "fipsCode": "CG",
+    "countryName": "DR Congo",
+    "capital": "Kinshasa",
+    "continentCode": "AF",
+    "detailPath": "/countries/CD/dr-congo.html"
+  },
+  {
+    "isoAlpha2": "CF",
+    "isoAlpha3": "CAF",
+    "isoNumeric": "140",
+    "fipsCode": "CT",
+    "countryName": "Central African Republic",
+    "capital": "Bangui",
+    "continentCode": "AF",
+    "detailPath": "/countries/CF/central-african-republic.html"
+  },
+  {
+    "isoAlpha2": "CG",
+    "isoAlpha3": "COG",
+    "isoNumeric": "178",
+    "fipsCode": "CF",
+    "countryName": "Congo Republic",
+    "capital": "Brazzaville",
+    "continentCode": "AF",
+    "detailPath": "/countries/CG/congo-republic.html"
+  },
+  {
+    "isoAlpha2": "CH",
+    "isoAlpha3": "CHE",
+    "isoNumeric": "756",
+    "fipsCode": "SZ",
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "continentCode": "EU",
+    "detailPath": "/countries/CH/switzerland.html"
+  },
+  {
+    "isoAlpha2": "CI",
+    "isoAlpha3": "CIV",
+    "isoNumeric": "384",
+    "fipsCode": "IV",
+    "countryName": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "continentCode": "AF",
+    "detailPath": "/countries/CI/ivory-coast.html"
+  },
+  {
+    "isoAlpha2": "CK",
+    "isoAlpha3": "COK",
+    "isoNumeric": "184",
+    "fipsCode": "CW",
+    "countryName": "Cook Islands",
+    "capital": "Avarua",
+    "continentCode": "OC",
+    "detailPath": "/countries/CK/cook-islands.html"
+  },
+  {
+    "isoAlpha2": "CL",
+    "isoAlpha3": "CHL",
+    "isoNumeric": "152",
+    "fipsCode": "CI",
+    "countryName": "Chile",
+    "capital": "Santiago",
+    "continentCode": "SA",
+    "detailPath": "/countries/CL/chile.html"
+  },
+  {
+    "isoAlpha2": "CM",
+    "isoAlpha3": "CMR",
+    "isoNumeric": "120",
+    "fipsCode": "CM",
+    "countryName": "Cameroon",
+    "capital": "Yaounde",
+    "continentCode": "AF",
+    "detailPath": "/countries/CM/cameroon.html"
+  },
+  {
+    "isoAlpha2": "CN",
+    "isoAlpha3": "CHN",
+    "isoNumeric": "156",
+    "fipsCode": "CH",
+    "countryName": "China",
+    "capital": "Beijing",
+    "continentCode": "AS",
+    "detailPath": "/countries/CN/china.html"
+  },
+  {
+    "isoAlpha2": "CO",
+    "isoAlpha3": "COL",
+    "isoNumeric": "170",
+    "fipsCode": "CO",
+    "countryName": "Colombia",
+    "capital": "Bogota",
+    "continentCode": "SA",
+    "detailPath": "/countries/CO/colombia.html"
+  },
+  {
+    "isoAlpha2": "CR",
+    "isoAlpha3": "CRI",
+    "isoNumeric": "188",
+    "fipsCode": "CS",
+    "countryName": "Costa Rica",
+    "capital": "San Jose",
+    "continentCode": "NA",
+    "detailPath": "/countries/CR/costa-rica.html"
+  },
+  {
+    "isoAlpha2": "CU",
+    "isoAlpha3": "CUB",
+    "isoNumeric": "192",
+    "fipsCode": "CU",
+    "countryName": "Cuba",
+    "capital": "Havana",
+    "continentCode": "NA",
+    "detailPath": "/countries/CU/cuba.html"
+  },
+  {
+    "isoAlpha2": "CV",
+    "isoAlpha3": "CPV",
+    "isoNumeric": "132",
+    "fipsCode": "CV",
+    "countryName": "Cabo Verde",
+    "capital": "Praia",
+    "continentCode": "AF",
+    "detailPath": "/countries/CV/cabo-verde.html"
+  },
+  {
+    "isoAlpha2": "CW",
+    "isoAlpha3": "CUW",
+    "isoNumeric": "531",
+    "fipsCode": "UC",
+    "countryName": "Curaçao",
+    "capital": "Willemstad",
+    "continentCode": "NA",
+    "detailPath": "/countries/CW/curacao.html"
+  },
+  {
+    "isoAlpha2": "CX",
+    "isoAlpha3": "CXR",
+    "isoNumeric": "162",
+    "fipsCode": "KT",
+    "countryName": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "continentCode": "OC",
+    "detailPath": "/countries/CX/christmas-island.html"
+  },
+  {
+    "isoAlpha2": "CY",
+    "isoAlpha3": "CYP",
+    "isoNumeric": "196",
+    "fipsCode": "CY",
+    "countryName": "Cyprus",
+    "capital": "Nicosia",
+    "continentCode": "EU",
+    "detailPath": "/countries/CY/cyprus.html"
+  },
+  {
+    "isoAlpha2": "CZ",
+    "isoAlpha3": "CZE",
+    "isoNumeric": "203",
+    "fipsCode": "EZ",
+    "countryName": "Czechia",
+    "capital": "Prague",
+    "continentCode": "EU",
+    "detailPath": "/countries/CZ/czechia.html"
+  },
+  {
+    "isoAlpha2": "DE",
+    "isoAlpha3": "DEU",
+    "isoNumeric": "276",
+    "fipsCode": "GM",
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "continentCode": "EU",
+    "detailPath": "/countries/DE/germany.html"
+  },
+  {
+    "isoAlpha2": "DJ",
+    "isoAlpha3": "DJI",
+    "isoNumeric": "262",
+    "fipsCode": "DJ",
+    "countryName": "Djibouti",
+    "capital": "Djibouti",
+    "continentCode": "AF",
+    "detailPath": "/countries/DJ/djibouti.html"
+  },
+  {
+    "isoAlpha2": "DK",
+    "isoAlpha3": "DNK",
+    "isoNumeric": "208",
+    "fipsCode": "DA",
+    "countryName": "Denmark",
+    "capital": "Copenhagen",
+    "continentCode": "EU",
+    "detailPath": "/countries/DK/denmark.html"
+  },
+  {
+    "isoAlpha2": "DM",
+    "isoAlpha3": "DMA",
+    "isoNumeric": "212",
+    "fipsCode": "DO",
+    "countryName": "Dominica",
+    "capital": "Roseau",
+    "continentCode": "NA",
+    "detailPath": "/countries/DM/dominica.html"
+  },
+  {
+    "isoAlpha2": "DO",
+    "isoAlpha3": "DOM",
+    "isoNumeric": "214",
+    "fipsCode": "DR",
+    "countryName": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continentCode": "NA",
+    "detailPath": "/countries/DO/dominican-republic.html"
+  },
+  {
+    "isoAlpha2": "DZ",
+    "isoAlpha3": "DZA",
+    "isoNumeric": "012",
+    "fipsCode": "AG",
+    "countryName": "Algeria",
+    "capital": "Algiers",
+    "continentCode": "AF",
+    "detailPath": "/countries/DZ/algeria.html"
+  },
+  {
+    "isoAlpha2": "EC",
+    "isoAlpha3": "ECU",
+    "isoNumeric": "218",
+    "fipsCode": "EC",
+    "countryName": "Ecuador",
+    "capital": "Quito",
+    "continentCode": "SA",
+    "detailPath": "/countries/EC/ecuador.html"
+  },
+  {
+    "isoAlpha2": "EE",
+    "isoAlpha3": "EST",
+    "isoNumeric": "233",
+    "fipsCode": "EN",
+    "countryName": "Estonia",
+    "capital": "Tallinn",
+    "continentCode": "EU",
+    "detailPath": "/countries/EE/estonia.html"
+  },
+  {
+    "isoAlpha2": "EG",
+    "isoAlpha3": "EGY",
+    "isoNumeric": "818",
+    "fipsCode": "EG",
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "continentCode": "AF",
+    "detailPath": "/countries/EG/egypt.html"
+  },
+  {
+    "isoAlpha2": "EH",
+    "isoAlpha3": "ESH",
+    "isoNumeric": "732",
+    "fipsCode": "WI",
+    "countryName": "Western Sahara",
+    "capital": "El-Aaiun",
+    "continentCode": "AF",
+    "detailPath": "/countries/EH/western-sahara.html"
+  },
+  {
+    "isoAlpha2": "ER",
+    "isoAlpha3": "ERI",
+    "isoNumeric": "232",
+    "fipsCode": "ER",
+    "countryName": "Eritrea",
+    "capital": "Asmara",
+    "continentCode": "AF",
+    "detailPath": "/countries/ER/eritrea.html"
+  },
+  {
+    "isoAlpha2": "ES",
+    "isoAlpha3": "ESP",
+    "isoNumeric": "724",
+    "fipsCode": "SP",
+    "countryName": "Spain",
+    "capital": "Madrid",
+    "continentCode": "EU",
+    "detailPath": "/countries/ES/spain.html"
+  },
+  {
+    "isoAlpha2": "ET",
+    "isoAlpha3": "ETH",
+    "isoNumeric": "231",
+    "fipsCode": "ET",
+    "countryName": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continentCode": "AF",
+    "detailPath": "/countries/ET/ethiopia.html"
+  },
+  {
+    "isoAlpha2": "FI",
+    "isoAlpha3": "FIN",
+    "isoNumeric": "246",
+    "fipsCode": "FI",
+    "countryName": "Finland",
+    "capital": "Helsinki",
+    "continentCode": "EU",
+    "detailPath": "/countries/FI/finland.html"
+  },
+  {
+    "isoAlpha2": "FJ",
+    "isoAlpha3": "FJI",
+    "isoNumeric": "242",
+    "fipsCode": "FJ",
+    "countryName": "Fiji",
+    "capital": "Suva",
+    "continentCode": "OC",
+    "detailPath": "/countries/FJ/fiji.html"
+  },
+  {
+    "isoAlpha2": "FK",
+    "isoAlpha3": "FLK",
+    "isoNumeric": "238",
+    "fipsCode": "FK",
+    "countryName": "Falkland Islands",
+    "capital": "Stanley",
+    "continentCode": "SA",
+    "detailPath": "/countries/FK/falkland-islands.html"
+  },
+  {
+    "isoAlpha2": "FM",
+    "isoAlpha3": "FSM",
+    "isoNumeric": "583",
+    "fipsCode": "FM",
+    "countryName": "Micronesia",
+    "capital": "Palikir",
+    "continentCode": "OC",
+    "detailPath": "/countries/FM/micronesia.html"
+  },
+  {
+    "isoAlpha2": "FO",
+    "isoAlpha3": "FRO",
+    "isoNumeric": "234",
+    "fipsCode": "FO",
+    "countryName": "Faroe Islands",
+    "capital": "Torshavn",
+    "continentCode": "EU",
+    "detailPath": "/countries/FO/faroe-islands.html"
+  },
+  {
+    "isoAlpha2": "FR",
+    "isoAlpha3": "FRA",
+    "isoNumeric": "250",
+    "fipsCode": "FR",
+    "countryName": "France",
+    "capital": "Paris",
+    "continentCode": "EU",
+    "detailPath": "/countries/FR/france.html"
+  },
+  {
+    "isoAlpha2": "GA",
+    "isoAlpha3": "GAB",
+    "isoNumeric": "266",
+    "fipsCode": "GB",
+    "countryName": "Gabon",
+    "capital": "Libreville",
+    "continentCode": "AF",
+    "detailPath": "/countries/GA/gabon.html"
+  },
+  {
+    "isoAlpha2": "GB",
+    "isoAlpha3": "GBR",
+    "isoNumeric": "826",
+    "fipsCode": "UK",
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "continentCode": "EU",
+    "detailPath": "/countries/GB/united-kingdom.html"
+  },
+  {
+    "isoAlpha2": "GD",
+    "isoAlpha3": "GRD",
+    "isoNumeric": "308",
+    "fipsCode": "GJ",
+    "countryName": "Grenada",
+    "capital": "St. George's",
+    "continentCode": "NA",
+    "detailPath": "/countries/GD/grenada.html"
+  },
+  {
+    "isoAlpha2": "GE",
+    "isoAlpha3": "GEO",
+    "isoNumeric": "268",
+    "fipsCode": "GG",
+    "countryName": "Georgia",
+    "capital": "Tbilisi",
+    "continentCode": "AS",
+    "detailPath": "/countries/GE/georgia.html"
+  },
+  {
+    "isoAlpha2": "GF",
+    "isoAlpha3": "GUF",
+    "isoNumeric": "254",
+    "fipsCode": "FG",
+    "countryName": "French Guiana",
+    "capital": "Cayenne",
+    "continentCode": "SA",
+    "detailPath": "/countries/GF/french-guiana.html"
+  },
+  {
+    "isoAlpha2": "GG",
+    "isoAlpha3": "GGY",
+    "isoNumeric": "831",
+    "fipsCode": "GK",
+    "countryName": "Guernsey",
+    "capital": "St Peter Port",
+    "continentCode": "EU",
+    "detailPath": "/countries/GG/guernsey.html"
+  },
+  {
+    "isoAlpha2": "GH",
+    "isoAlpha3": "GHA",
+    "isoNumeric": "288",
+    "fipsCode": "GH",
+    "countryName": "Ghana",
+    "capital": "Accra",
+    "continentCode": "AF",
+    "detailPath": "/countries/GH/ghana.html"
+  },
+  {
+    "isoAlpha2": "GI",
+    "isoAlpha3": "GIB",
+    "isoNumeric": "292",
+    "fipsCode": "GI",
+    "countryName": "Gibraltar",
+    "capital": "Gibraltar",
+    "continentCode": "EU",
+    "detailPath": "/countries/GI/gibraltar.html"
+  },
+  {
+    "isoAlpha2": "GL",
+    "isoAlpha3": "GRL",
+    "isoNumeric": "304",
+    "fipsCode": "GL",
+    "countryName": "Greenland",
+    "capital": "Nuuk",
+    "continentCode": "NA",
+    "detailPath": "/countries/GL/greenland.html"
+  },
+  {
+    "isoAlpha2": "GM",
+    "isoAlpha3": "GMB",
+    "isoNumeric": "270",
+    "fipsCode": "GA",
+    "countryName": "The Gambia",
+    "capital": "Banjul",
+    "continentCode": "AF",
+    "detailPath": "/countries/GM/the-gambia.html"
+  },
+  {
+    "isoAlpha2": "GN",
+    "isoAlpha3": "GIN",
+    "isoNumeric": "324",
+    "fipsCode": "GV",
+    "countryName": "Guinea",
+    "capital": "Conakry",
+    "continentCode": "AF",
+    "detailPath": "/countries/GN/guinea.html"
+  },
+  {
+    "isoAlpha2": "GP",
+    "isoAlpha3": "GLP",
+    "isoNumeric": "312",
+    "fipsCode": "GP",
+    "countryName": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "continentCode": "NA",
+    "detailPath": "/countries/GP/guadeloupe.html"
+  },
+  {
+    "isoAlpha2": "GQ",
+    "isoAlpha3": "GNQ",
+    "isoNumeric": "226",
+    "fipsCode": "EK",
+    "countryName": "Equatorial Guinea",
+    "capital": "Malabo",
+    "continentCode": "AF",
+    "detailPath": "/countries/GQ/equatorial-guinea.html"
+  },
+  {
+    "isoAlpha2": "GR",
+    "isoAlpha3": "GRC",
+    "isoNumeric": "300",
+    "fipsCode": "GR",
+    "countryName": "Greece",
+    "capital": "Athens",
+    "continentCode": "EU",
+    "detailPath": "/countries/GR/greece.html"
+  },
+  {
+    "isoAlpha2": "GS",
+    "isoAlpha3": "SGS",
+    "isoNumeric": "239",
+    "fipsCode": "SX",
+    "countryName": "South Georgia and South Sandwich Islands",
+    "capital": "Grytviken",
+    "continentCode": "AN",
+    "detailPath": "/countries/GS/south-georgia-and-south-sandwich-islands.html"
+  },
+  {
+    "isoAlpha2": "GT",
+    "isoAlpha3": "GTM",
+    "isoNumeric": "320",
+    "fipsCode": "GT",
+    "countryName": "Guatemala",
+    "capital": "Guatemala City",
+    "continentCode": "NA",
+    "detailPath": "/countries/GT/guatemala.html"
+  },
+  {
+    "isoAlpha2": "GU",
+    "isoAlpha3": "GUM",
+    "isoNumeric": "316",
+    "fipsCode": "GQ",
+    "countryName": "Guam",
+    "capital": "Hagatna",
+    "continentCode": "OC",
+    "detailPath": "/countries/GU/guam.html"
+  },
+  {
+    "isoAlpha2": "GW",
+    "isoAlpha3": "GNB",
+    "isoNumeric": "624",
+    "fipsCode": "PU",
+    "countryName": "Guinea-Bissau",
+    "capital": "Bissau",
+    "continentCode": "AF",
+    "detailPath": "/countries/GW/guinea-bissau.html"
+  },
+  {
+    "isoAlpha2": "GY",
+    "isoAlpha3": "GUY",
+    "isoNumeric": "328",
+    "fipsCode": "GY",
+    "countryName": "Guyana",
+    "capital": "Georgetown",
+    "continentCode": "SA",
+    "detailPath": "/countries/GY/guyana.html"
+  },
+  {
+    "isoAlpha2": "HK",
+    "isoAlpha3": "HKG",
+    "isoNumeric": "344",
+    "fipsCode": "HK",
+    "countryName": "Hong Kong",
+    "capital": "Hong Kong",
+    "continentCode": "AS",
+    "detailPath": "/countries/HK/hong-kong.html"
+  },
+  {
+    "isoAlpha2": "HM",
+    "isoAlpha3": "HMD",
+    "isoNumeric": "334",
+    "fipsCode": "HM",
+    "countryName": "Heard and McDonald Islands",
+    "capital": "",
+    "continentCode": "AN",
+    "detailPath": "/countries/HM/heard-and-mcdonald-islands.html"
+  },
+  {
+    "isoAlpha2": "HN",
+    "isoAlpha3": "HND",
+    "isoNumeric": "340",
+    "fipsCode": "HO",
+    "countryName": "Honduras",
+    "capital": "Tegucigalpa",
+    "continentCode": "NA",
+    "detailPath": "/countries/HN/honduras.html"
+  },
+  {
+    "isoAlpha2": "HR",
+    "isoAlpha3": "HRV",
+    "isoNumeric": "191",
+    "fipsCode": "HR",
+    "countryName": "Croatia",
+    "capital": "Zagreb",
+    "continentCode": "EU",
+    "detailPath": "/countries/HR/croatia.html"
+  },
+  {
+    "isoAlpha2": "HT",
+    "isoAlpha3": "HTI",
+    "isoNumeric": "332",
+    "fipsCode": "HA",
+    "countryName": "Haiti",
+    "capital": "Port-au-Prince",
+    "continentCode": "NA",
+    "detailPath": "/countries/HT/haiti.html"
+  },
+  {
+    "isoAlpha2": "HU",
+    "isoAlpha3": "HUN",
+    "isoNumeric": "348",
+    "fipsCode": "HU",
+    "countryName": "Hungary",
+    "capital": "Budapest",
+    "continentCode": "EU",
+    "detailPath": "/countries/HU/hungary.html"
+  },
+  {
+    "isoAlpha2": "ID",
+    "isoAlpha3": "IDN",
+    "isoNumeric": "360",
+    "fipsCode": "ID",
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "continentCode": "AS",
+    "detailPath": "/countries/ID/indonesia.html"
+  },
+  {
+    "isoAlpha2": "IE",
+    "isoAlpha3": "IRL",
+    "isoNumeric": "372",
+    "fipsCode": "EI",
+    "countryName": "Ireland",
+    "capital": "Dublin",
+    "continentCode": "EU",
+    "detailPath": "/countries/IE/ireland.html"
+  },
+  {
+    "isoAlpha2": "IL",
+    "isoAlpha3": "ISR",
+    "isoNumeric": "376",
+    "fipsCode": "IS",
+    "countryName": "Israel",
+    "capital": "Jerusalem",
+    "continentCode": "AS",
+    "detailPath": "/countries/IL/israel.html"
+  },
+  {
+    "isoAlpha2": "IM",
+    "isoAlpha3": "IMN",
+    "isoNumeric": "833",
+    "fipsCode": "IM",
+    "countryName": "Isle of Man",
+    "capital": "Douglas",
+    "continentCode": "EU",
+    "detailPath": "/countries/IM/isle-of-man.html"
+  },
+  {
+    "isoAlpha2": "IN",
+    "isoAlpha3": "IND",
+    "isoNumeric": "356",
+    "fipsCode": "IN",
+    "countryName": "India",
+    "capital": "New Delhi",
+    "continentCode": "AS",
+    "detailPath": "/countries/IN/india.html"
+  },
+  {
+    "isoAlpha2": "IO",
+    "isoAlpha3": "IOT",
+    "isoNumeric": "086",
+    "fipsCode": "IO",
+    "countryName": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "continentCode": "AS",
+    "detailPath": "/countries/IO/british-indian-ocean-territory.html"
+  },
+  {
+    "isoAlpha2": "IQ",
+    "isoAlpha3": "IRQ",
+    "isoNumeric": "368",
+    "fipsCode": "IZ",
+    "countryName": "Iraq",
+    "capital": "Baghdad",
+    "continentCode": "AS",
+    "detailPath": "/countries/IQ/iraq.html"
+  },
+  {
+    "isoAlpha2": "IR",
+    "isoAlpha3": "IRN",
+    "isoNumeric": "364",
+    "fipsCode": "IR",
+    "countryName": "Iran",
+    "capital": "Tehran",
+    "continentCode": "AS",
+    "detailPath": "/countries/IR/iran.html"
+  },
+  {
+    "isoAlpha2": "IS",
+    "isoAlpha3": "ISL",
+    "isoNumeric": "352",
+    "fipsCode": "IC",
+    "countryName": "Iceland",
+    "capital": "Reykjavik",
+    "continentCode": "EU",
+    "detailPath": "/countries/IS/iceland.html"
+  },
+  {
+    "isoAlpha2": "IT",
+    "isoAlpha3": "ITA",
+    "isoNumeric": "380",
+    "fipsCode": "IT",
+    "countryName": "Italy",
+    "capital": "Rome",
+    "continentCode": "EU",
+    "detailPath": "/countries/IT/italy.html"
+  },
+  {
+    "isoAlpha2": "JE",
+    "isoAlpha3": "JEY",
+    "isoNumeric": "832",
+    "fipsCode": "JE",
+    "countryName": "Jersey",
+    "capital": "Saint Helier",
+    "continentCode": "EU",
+    "detailPath": "/countries/JE/jersey.html"
+  },
+  {
+    "isoAlpha2": "JM",
+    "isoAlpha3": "JAM",
+    "isoNumeric": "388",
+    "fipsCode": "JM",
+    "countryName": "Jamaica",
+    "capital": "Kingston",
+    "continentCode": "NA",
+    "detailPath": "/countries/JM/jamaica.html"
+  },
+  {
+    "isoAlpha2": "JO",
+    "isoAlpha3": "JOR",
+    "isoNumeric": "400",
+    "fipsCode": "JO",
+    "countryName": "Jordan",
+    "capital": "Amman",
+    "continentCode": "AS",
+    "detailPath": "/countries/JO/jordan.html"
+  },
+  {
+    "isoAlpha2": "JP",
+    "isoAlpha3": "JPN",
+    "isoNumeric": "392",
+    "fipsCode": "JA",
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "continentCode": "AS",
+    "detailPath": "/countries/JP/japan.html"
+  },
+  {
+    "isoAlpha2": "KE",
+    "isoAlpha3": "KEN",
+    "isoNumeric": "404",
+    "fipsCode": "KE",
+    "countryName": "Kenya",
+    "capital": "Nairobi",
+    "continentCode": "AF",
+    "detailPath": "/countries/KE/kenya.html"
+  },
+  {
+    "isoAlpha2": "KG",
+    "isoAlpha3": "KGZ",
+    "isoNumeric": "417",
+    "fipsCode": "KG",
+    "countryName": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "continentCode": "AS",
+    "detailPath": "/countries/KG/kyrgyzstan.html"
+  },
+  {
+    "isoAlpha2": "KH",
+    "isoAlpha3": "KHM",
+    "isoNumeric": "116",
+    "fipsCode": "CB",
+    "countryName": "Cambodia",
+    "capital": "Phnom Penh",
+    "continentCode": "AS",
+    "detailPath": "/countries/KH/cambodia.html"
+  },
+  {
+    "isoAlpha2": "KI",
+    "isoAlpha3": "KIR",
+    "isoNumeric": "296",
+    "fipsCode": "KR",
+    "countryName": "Kiribati",
+    "capital": "Tarawa",
+    "continentCode": "OC",
+    "detailPath": "/countries/KI/kiribati.html"
+  },
+  {
+    "isoAlpha2": "KM",
+    "isoAlpha3": "COM",
+    "isoNumeric": "174",
+    "fipsCode": "CN",
+    "countryName": "Comoros",
+    "capital": "Moroni",
+    "continentCode": "AF",
+    "detailPath": "/countries/KM/comoros.html"
+  },
+  {
+    "isoAlpha2": "KN",
+    "isoAlpha3": "KNA",
+    "isoNumeric": "659",
+    "fipsCode": "SC",
+    "countryName": "St Kitts and Nevis",
+    "capital": "Basseterre",
+    "continentCode": "NA",
+    "detailPath": "/countries/KN/st-kitts-and-nevis.html"
+  },
+  {
+    "isoAlpha2": "KP",
+    "isoAlpha3": "PRK",
+    "isoNumeric": "408",
+    "fipsCode": "KN",
+    "countryName": "North Korea",
+    "capital": "Pyongyang",
+    "continentCode": "AS",
+    "detailPath": "/countries/KP/north-korea.html"
+  },
+  {
+    "isoAlpha2": "KR",
+    "isoAlpha3": "KOR",
+    "isoNumeric": "410",
+    "fipsCode": "KS",
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "continentCode": "AS",
+    "detailPath": "/countries/KR/south-korea.html"
+  },
+  {
+    "isoAlpha2": "KW",
+    "isoAlpha3": "KWT",
+    "isoNumeric": "414",
+    "fipsCode": "KU",
+    "countryName": "Kuwait",
+    "capital": "Kuwait City",
+    "continentCode": "AS",
+    "detailPath": "/countries/KW/kuwait.html"
+  },
+  {
+    "isoAlpha2": "KY",
+    "isoAlpha3": "CYM",
+    "isoNumeric": "136",
+    "fipsCode": "CJ",
+    "countryName": "Cayman Islands",
+    "capital": "George Town",
+    "continentCode": "NA",
+    "detailPath": "/countries/KY/cayman-islands.html"
+  },
+  {
+    "isoAlpha2": "KZ",
+    "isoAlpha3": "KAZ",
+    "isoNumeric": "398",
+    "fipsCode": "KZ",
+    "countryName": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "continentCode": "AS",
+    "detailPath": "/countries/KZ/kazakhstan.html"
+  },
+  {
+    "isoAlpha2": "LA",
+    "isoAlpha3": "LAO",
+    "isoNumeric": "418",
+    "fipsCode": "LA",
+    "countryName": "Laos",
+    "capital": "Vientiane",
+    "continentCode": "AS",
+    "detailPath": "/countries/LA/laos.html"
+  },
+  {
+    "isoAlpha2": "LB",
+    "isoAlpha3": "LBN",
+    "isoNumeric": "422",
+    "fipsCode": "LE",
+    "countryName": "Lebanon",
+    "capital": "Beirut",
+    "continentCode": "AS",
+    "detailPath": "/countries/LB/lebanon.html"
+  },
+  {
+    "isoAlpha2": "LC",
+    "isoAlpha3": "LCA",
+    "isoNumeric": "662",
+    "fipsCode": "ST",
+    "countryName": "Saint Lucia",
+    "capital": "Castries",
+    "continentCode": "NA",
+    "detailPath": "/countries/LC/saint-lucia.html"
+  },
+  {
+    "isoAlpha2": "LI",
+    "isoAlpha3": "LIE",
+    "isoNumeric": "438",
+    "fipsCode": "LS",
+    "countryName": "Liechtenstein",
+    "capital": "Vaduz",
+    "continentCode": "EU",
+    "detailPath": "/countries/LI/liechtenstein.html"
+  },
+  {
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144",
+    "fipsCode": "CE",
+    "countryName": "Sri Lanka",
+    "capital": "Colombo",
+    "continentCode": "AS",
+    "detailPath": "/countries/LK/sri-lanka.html"
+  },
+  {
+    "isoAlpha2": "LR",
+    "isoAlpha3": "LBR",
+    "isoNumeric": "430",
+    "fipsCode": "LI",
+    "countryName": "Liberia",
+    "capital": "Monrovia",
+    "continentCode": "AF",
+    "detailPath": "/countries/LR/liberia.html"
+  },
+  {
+    "isoAlpha2": "LS",
+    "isoAlpha3": "LSO",
+    "isoNumeric": "426",
+    "fipsCode": "LT",
+    "countryName": "Lesotho",
+    "capital": "Maseru",
+    "continentCode": "AF",
+    "detailPath": "/countries/LS/lesotho.html"
+  },
+  {
+    "isoAlpha2": "LT",
+    "isoAlpha3": "LTU",
+    "isoNumeric": "440",
+    "fipsCode": "LH",
+    "countryName": "Lithuania",
+    "capital": "Vilnius",
+    "continentCode": "EU",
+    "detailPath": "/countries/LT/lithuania.html"
+  },
+  {
+    "isoAlpha2": "LU",
+    "isoAlpha3": "LUX",
+    "isoNumeric": "442",
+    "fipsCode": "LU",
+    "countryName": "Luxembourg",
+    "capital": "Luxembourg",
+    "continentCode": "EU",
+    "detailPath": "/countries/LU/luxembourg.html"
+  },
+  {
+    "isoAlpha2": "LV",
+    "isoAlpha3": "LVA",
+    "isoNumeric": "428",
+    "fipsCode": "LG",
+    "countryName": "Latvia",
+    "capital": "Riga",
+    "continentCode": "EU",
+    "detailPath": "/countries/LV/latvia.html"
+  },
+  {
+    "isoAlpha2": "LY",
+    "isoAlpha3": "LBY",
+    "isoNumeric": "434",
+    "fipsCode": "LY",
+    "countryName": "Libya",
+    "capital": "Tripoli",
+    "continentCode": "AF",
+    "detailPath": "/countries/LY/libya.html"
+  },
+  {
+    "isoAlpha2": "MA",
+    "isoAlpha3": "MAR",
+    "isoNumeric": "504",
+    "fipsCode": "MO",
+    "countryName": "Morocco",
+    "capital": "Rabat",
+    "continentCode": "AF",
+    "detailPath": "/countries/MA/morocco.html"
+  },
+  {
+    "isoAlpha2": "MC",
+    "isoAlpha3": "MCO",
+    "isoNumeric": "492",
+    "fipsCode": "MN",
+    "countryName": "Monaco",
+    "capital": "Monaco",
+    "continentCode": "EU",
+    "detailPath": "/countries/MC/monaco.html"
+  },
+  {
+    "isoAlpha2": "MD",
+    "isoAlpha3": "MDA",
+    "isoNumeric": "498",
+    "fipsCode": "MD",
+    "countryName": "Moldova",
+    "capital": "Chisinau",
+    "continentCode": "EU",
+    "detailPath": "/countries/MD/moldova.html"
+  },
+  {
+    "isoAlpha2": "ME",
+    "isoAlpha3": "MNE",
+    "isoNumeric": "499",
+    "fipsCode": "MJ",
+    "countryName": "Montenegro",
+    "capital": "Podgorica",
+    "continentCode": "EU",
+    "detailPath": "/countries/ME/montenegro.html"
+  },
+  {
+    "isoAlpha2": "MF",
+    "isoAlpha3": "MAF",
+    "isoNumeric": "663",
+    "fipsCode": "RN",
+    "countryName": "Saint Martin",
+    "capital": "Marigot",
+    "continentCode": "NA",
+    "detailPath": "/countries/MF/saint-martin.html"
+  },
+  {
+    "isoAlpha2": "MG",
+    "isoAlpha3": "MDG",
+    "isoNumeric": "450",
+    "fipsCode": "MA",
+    "countryName": "Madagascar",
+    "capital": "Antananarivo",
+    "continentCode": "AF",
+    "detailPath": "/countries/MG/madagascar.html"
+  },
+  {
+    "isoAlpha2": "MH",
+    "isoAlpha3": "MHL",
+    "isoNumeric": "584",
+    "fipsCode": "RM",
+    "countryName": "Marshall Islands",
+    "capital": "Majuro",
+    "continentCode": "OC",
+    "detailPath": "/countries/MH/marshall-islands.html"
+  },
+  {
+    "isoAlpha2": "MK",
+    "isoAlpha3": "MKD",
+    "isoNumeric": "807",
+    "fipsCode": "MK",
+    "countryName": "North Macedonia",
+    "capital": "Skopje",
+    "continentCode": "EU",
+    "detailPath": "/countries/MK/north-macedonia.html"
+  },
+  {
+    "isoAlpha2": "ML",
+    "isoAlpha3": "MLI",
+    "isoNumeric": "466",
+    "fipsCode": "ML",
+    "countryName": "Mali",
+    "capital": "Bamako",
+    "continentCode": "AF",
+    "detailPath": "/countries/ML/mali.html"
+  },
+  {
+    "isoAlpha2": "MM",
+    "isoAlpha3": "MMR",
+    "isoNumeric": "104",
+    "fipsCode": "BM",
+    "countryName": "Myanmar",
+    "capital": "Nay Pyi Taw",
+    "continentCode": "AS",
+    "detailPath": "/countries/MM/myanmar.html"
+  },
+  {
+    "isoAlpha2": "MN",
+    "isoAlpha3": "MNG",
+    "isoNumeric": "496",
+    "fipsCode": "MG",
+    "countryName": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "continentCode": "AS",
+    "detailPath": "/countries/MN/mongolia.html"
+  },
+  {
+    "isoAlpha2": "MO",
+    "isoAlpha3": "MAC",
+    "isoNumeric": "446",
+    "fipsCode": "MC",
+    "countryName": "Macao",
+    "capital": "Macao",
+    "continentCode": "AS",
+    "detailPath": "/countries/MO/macao.html"
+  },
+  {
+    "isoAlpha2": "MP",
+    "isoAlpha3": "MNP",
+    "isoNumeric": "580",
+    "fipsCode": "CQ",
+    "countryName": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "continentCode": "OC",
+    "detailPath": "/countries/MP/northern-mariana-islands.html"
+  },
+  {
+    "isoAlpha2": "MQ",
+    "isoAlpha3": "MTQ",
+    "isoNumeric": "474",
+    "fipsCode": "MB",
+    "countryName": "Martinique",
+    "capital": "Fort-de-France",
+    "continentCode": "NA",
+    "detailPath": "/countries/MQ/martinique.html"
+  },
+  {
+    "isoAlpha2": "MR",
+    "isoAlpha3": "MRT",
+    "isoNumeric": "478",
+    "fipsCode": "MR",
+    "countryName": "Mauritania",
+    "capital": "Nouakchott",
+    "continentCode": "AF",
+    "detailPath": "/countries/MR/mauritania.html"
+  },
+  {
+    "isoAlpha2": "MS",
+    "isoAlpha3": "MSR",
+    "isoNumeric": "500",
+    "fipsCode": "MH",
+    "countryName": "Montserrat",
+    "capital": "Plymouth",
+    "continentCode": "NA",
+    "detailPath": "/countries/MS/montserrat.html"
+  },
+  {
+    "isoAlpha2": "MT",
+    "isoAlpha3": "MLT",
+    "isoNumeric": "470",
+    "fipsCode": "MT",
+    "countryName": "Malta",
+    "capital": "Valletta",
+    "continentCode": "EU",
+    "detailPath": "/countries/MT/malta.html"
+  },
+  {
+    "isoAlpha2": "MU",
+    "isoAlpha3": "MUS",
+    "isoNumeric": "480",
+    "fipsCode": "MP",
+    "countryName": "Mauritius",
+    "capital": "Port Louis",
+    "continentCode": "AF",
+    "detailPath": "/countries/MU/mauritius.html"
+  },
+  {
+    "isoAlpha2": "MV",
+    "isoAlpha3": "MDV",
+    "isoNumeric": "462",
+    "fipsCode": "MV",
+    "countryName": "Maldives",
+    "capital": "Male",
+    "continentCode": "AS",
+    "detailPath": "/countries/MV/maldives.html"
+  },
+  {
+    "isoAlpha2": "MW",
+    "isoAlpha3": "MWI",
+    "isoNumeric": "454",
+    "fipsCode": "MI",
+    "countryName": "Malawi",
+    "capital": "Lilongwe",
+    "continentCode": "AF",
+    "detailPath": "/countries/MW/malawi.html"
+  },
+  {
+    "isoAlpha2": "MX",
+    "isoAlpha3": "MEX",
+    "isoNumeric": "484",
+    "fipsCode": "MX",
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "continentCode": "NA",
+    "detailPath": "/countries/MX/mexico.html"
+  },
+  {
+    "isoAlpha2": "MY",
+    "isoAlpha3": "MYS",
+    "isoNumeric": "458",
+    "fipsCode": "MY",
+    "countryName": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continentCode": "AS",
+    "detailPath": "/countries/MY/malaysia.html"
+  },
+  {
+    "isoAlpha2": "MZ",
+    "isoAlpha3": "MOZ",
+    "isoNumeric": "508",
+    "fipsCode": "MZ",
+    "countryName": "Mozambique",
+    "capital": "Maputo",
+    "continentCode": "AF",
+    "detailPath": "/countries/MZ/mozambique.html"
+  },
+  {
+    "isoAlpha2": "NA",
+    "isoAlpha3": "NAM",
+    "isoNumeric": "516",
+    "fipsCode": "WA",
+    "countryName": "Namibia",
+    "capital": "Windhoek",
+    "continentCode": "AF",
+    "detailPath": "/countries/NA/namibia.html"
+  },
+  {
+    "isoAlpha2": "NC",
+    "isoAlpha3": "NCL",
+    "isoNumeric": "540",
+    "fipsCode": "NC",
+    "countryName": "New Caledonia",
+    "capital": "Noumea",
+    "continentCode": "OC",
+    "detailPath": "/countries/NC/new-caledonia.html"
+  },
+  {
+    "isoAlpha2": "NE",
+    "isoAlpha3": "NER",
+    "isoNumeric": "562",
+    "fipsCode": "NG",
+    "countryName": "Niger",
+    "capital": "Niamey",
+    "continentCode": "AF",
+    "detailPath": "/countries/NE/niger.html"
+  },
+  {
+    "isoAlpha2": "NF",
+    "isoAlpha3": "NFK",
+    "isoNumeric": "574",
+    "fipsCode": "NF",
+    "countryName": "Norfolk Island",
+    "capital": "Kingston",
+    "continentCode": "OC",
+    "detailPath": "/countries/NF/norfolk-island.html"
+  },
+  {
+    "isoAlpha2": "NG",
+    "isoAlpha3": "NGA",
+    "isoNumeric": "566",
+    "fipsCode": "NI",
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "continentCode": "AF",
+    "detailPath": "/countries/NG/nigeria.html"
+  },
+  {
+    "isoAlpha2": "NI",
+    "isoAlpha3": "NIC",
+    "isoNumeric": "558",
+    "fipsCode": "NU",
+    "countryName": "Nicaragua",
+    "capital": "Managua",
+    "continentCode": "NA",
+    "detailPath": "/countries/NI/nicaragua.html"
+  },
+  {
+    "isoAlpha2": "NL",
+    "isoAlpha3": "NLD",
+    "isoNumeric": "528",
+    "fipsCode": "NL",
+    "countryName": "The Netherlands",
+    "capital": "Amsterdam",
+    "continentCode": "EU",
+    "detailPath": "/countries/NL/the-netherlands.html"
+  },
+  {
+    "isoAlpha2": "NO",
+    "isoAlpha3": "NOR",
+    "isoNumeric": "578",
+    "fipsCode": "NO",
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "continentCode": "EU",
+    "detailPath": "/countries/NO/norway.html"
+  },
+  {
+    "isoAlpha2": "NP",
+    "isoAlpha3": "NPL",
+    "isoNumeric": "524",
+    "fipsCode": "NP",
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "continentCode": "AS",
+    "detailPath": "/countries/NP/nepal.html"
+  },
+  {
+    "isoAlpha2": "NR",
+    "isoAlpha3": "NRU",
+    "isoNumeric": "520",
+    "fipsCode": "NR",
+    "countryName": "Nauru",
+    "capital": "Yaren",
+    "continentCode": "OC",
+    "detailPath": "/countries/NR/nauru.html"
+  },
+  {
+    "isoAlpha2": "NU",
+    "isoAlpha3": "NIU",
+    "isoNumeric": "570",
+    "fipsCode": "NE",
+    "countryName": "Niue",
+    "capital": "Alofi",
+    "continentCode": "OC",
+    "detailPath": "/countries/NU/niue.html"
+  },
+  {
+    "isoAlpha2": "NZ",
+    "isoAlpha3": "NZL",
+    "isoNumeric": "554",
+    "fipsCode": "NZ",
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "continentCode": "OC",
+    "detailPath": "/countries/NZ/new-zealand.html"
+  },
+  {
+    "isoAlpha2": "OM",
+    "isoAlpha3": "OMN",
+    "isoNumeric": "512",
+    "fipsCode": "MU",
+    "countryName": "Oman",
+    "capital": "Muscat",
+    "continentCode": "AS",
+    "detailPath": "/countries/OM/oman.html"
+  },
+  {
+    "isoAlpha2": "PA",
+    "isoAlpha3": "PAN",
+    "isoNumeric": "591",
+    "fipsCode": "PM",
+    "countryName": "Panama",
+    "capital": "Panama City",
+    "continentCode": "NA",
+    "detailPath": "/countries/PA/panama.html"
+  },
+  {
+    "isoAlpha2": "PE",
+    "isoAlpha3": "PER",
+    "isoNumeric": "604",
+    "fipsCode": "PE",
+    "countryName": "Peru",
+    "capital": "Lima",
+    "continentCode": "SA",
+    "detailPath": "/countries/PE/peru.html"
+  },
+  {
+    "isoAlpha2": "PF",
+    "isoAlpha3": "PYF",
+    "isoNumeric": "258",
+    "fipsCode": "FP",
+    "countryName": "French Polynesia",
+    "capital": "Papeete",
+    "continentCode": "OC",
+    "detailPath": "/countries/PF/french-polynesia.html"
+  },
+  {
+    "isoAlpha2": "PG",
+    "isoAlpha3": "PNG",
+    "isoNumeric": "598",
+    "fipsCode": "PP",
+    "countryName": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "continentCode": "OC",
+    "detailPath": "/countries/PG/papua-new-guinea.html"
+  },
+  {
+    "isoAlpha2": "PH",
+    "isoAlpha3": "PHL",
+    "isoNumeric": "608",
+    "fipsCode": "RP",
+    "countryName": "Philippines",
+    "capital": "Manila",
+    "continentCode": "AS",
+    "detailPath": "/countries/PH/philippines.html"
+  },
+  {
+    "isoAlpha2": "PK",
+    "isoAlpha3": "PAK",
+    "isoNumeric": "586",
+    "fipsCode": "PK",
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "continentCode": "AS",
+    "detailPath": "/countries/PK/pakistan.html"
+  },
+  {
+    "isoAlpha2": "PL",
+    "isoAlpha3": "POL",
+    "isoNumeric": "616",
+    "fipsCode": "PL",
+    "countryName": "Poland",
+    "capital": "Warsaw",
+    "continentCode": "EU",
+    "detailPath": "/countries/PL/poland.html"
+  },
+  {
+    "isoAlpha2": "PM",
+    "isoAlpha3": "SPM",
+    "isoNumeric": "666",
+    "fipsCode": "SB",
+    "countryName": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "continentCode": "NA",
+    "detailPath": "/countries/PM/saint-pierre-and-miquelon.html"
+  },
+  {
+    "isoAlpha2": "PN",
+    "isoAlpha3": "PCN",
+    "isoNumeric": "612",
+    "fipsCode": "PC",
+    "countryName": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "continentCode": "OC",
+    "detailPath": "/countries/PN/pitcairn-islands.html"
+  },
+  {
+    "isoAlpha2": "PR",
+    "isoAlpha3": "PRI",
+    "isoNumeric": "630",
+    "fipsCode": "RQ",
+    "countryName": "Puerto Rico",
+    "capital": "San Juan",
+    "continentCode": "NA",
+    "detailPath": "/countries/PR/puerto-rico.html"
+  },
+  {
+    "isoAlpha2": "PS",
+    "isoAlpha3": "PSE",
+    "isoNumeric": "275",
+    "fipsCode": "WE",
+    "countryName": "Palestine",
+    "capital": "East Jerusalem",
+    "continentCode": "AS",
+    "detailPath": "/countries/PS/palestine.html"
+  },
+  {
+    "isoAlpha2": "PT",
+    "isoAlpha3": "PRT",
+    "isoNumeric": "620",
+    "fipsCode": "PO",
+    "countryName": "Portugal",
+    "capital": "Lisbon",
+    "continentCode": "EU",
+    "detailPath": "/countries/PT/portugal.html"
+  },
+  {
+    "isoAlpha2": "PW",
+    "isoAlpha3": "PLW",
+    "isoNumeric": "585",
+    "fipsCode": "PS",
+    "countryName": "Palau",
+    "capital": "Melekeok",
+    "continentCode": "OC",
+    "detailPath": "/countries/PW/palau.html"
+  },
+  {
+    "isoAlpha2": "PY",
+    "isoAlpha3": "PRY",
+    "isoNumeric": "600",
+    "fipsCode": "PA",
+    "countryName": "Paraguay",
+    "capital": "Asuncion",
+    "continentCode": "SA",
+    "detailPath": "/countries/PY/paraguay.html"
+  },
+  {
+    "isoAlpha2": "QA",
+    "isoAlpha3": "QAT",
+    "isoNumeric": "634",
+    "fipsCode": "QA",
+    "countryName": "Qatar",
+    "capital": "Doha",
+    "continentCode": "AS",
+    "detailPath": "/countries/QA/qatar.html"
+  },
+  {
+    "isoAlpha2": "RE",
+    "isoAlpha3": "REU",
+    "isoNumeric": "638",
+    "fipsCode": "RE",
+    "countryName": "Réunion",
+    "capital": "Saint-Denis",
+    "continentCode": "AF",
+    "detailPath": "/countries/RE/reunion.html"
+  },
+  {
+    "isoAlpha2": "RO",
+    "isoAlpha3": "ROU",
+    "isoNumeric": "642",
+    "fipsCode": "RO",
+    "countryName": "Romania",
+    "capital": "Bucharest",
+    "continentCode": "EU",
+    "detailPath": "/countries/RO/romania.html"
+  },
+  {
+    "isoAlpha2": "RS",
+    "isoAlpha3": "SRB",
+    "isoNumeric": "688",
+    "fipsCode": "RI",
+    "countryName": "Serbia",
+    "capital": "Belgrade",
+    "continentCode": "EU",
+    "detailPath": "/countries/RS/serbia.html"
+  },
+  {
+    "isoAlpha2": "RU",
+    "isoAlpha3": "RUS",
+    "isoNumeric": "643",
+    "fipsCode": "RS",
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "continentCode": "EU",
+    "detailPath": "/countries/RU/russia.html"
+  },
+  {
+    "isoAlpha2": "RW",
+    "isoAlpha3": "RWA",
+    "isoNumeric": "646",
+    "fipsCode": "RW",
+    "countryName": "Rwanda",
+    "capital": "Kigali",
+    "continentCode": "AF",
+    "detailPath": "/countries/RW/rwanda.html"
+  },
+  {
+    "isoAlpha2": "SA",
+    "isoAlpha3": "SAU",
+    "isoNumeric": "682",
+    "fipsCode": "SA",
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "continentCode": "AS",
+    "detailPath": "/countries/SA/saudi-arabia.html"
+  },
+  {
+    "isoAlpha2": "SB",
+    "isoAlpha3": "SLB",
+    "isoNumeric": "090",
+    "fipsCode": "BP",
+    "countryName": "Solomon Islands",
+    "capital": "Honiara",
+    "continentCode": "OC",
+    "detailPath": "/countries/SB/solomon-islands.html"
+  },
+  {
+    "isoAlpha2": "SC",
+    "isoAlpha3": "SYC",
+    "isoNumeric": "690",
+    "fipsCode": "SE",
+    "countryName": "Seychelles",
+    "capital": "Victoria",
+    "continentCode": "AF",
+    "detailPath": "/countries/SC/seychelles.html"
+  },
+  {
+    "isoAlpha2": "SD",
+    "isoAlpha3": "SDN",
+    "isoNumeric": "729",
+    "fipsCode": "SU",
+    "countryName": "Sudan",
+    "capital": "Khartoum",
+    "continentCode": "AF",
+    "detailPath": "/countries/SD/sudan.html"
+  },
+  {
+    "isoAlpha2": "SE",
+    "isoAlpha3": "SWE",
+    "isoNumeric": "752",
+    "fipsCode": "SW",
+    "countryName": "Sweden",
+    "capital": "Stockholm",
+    "continentCode": "EU",
+    "detailPath": "/countries/SE/sweden.html"
+  },
+  {
+    "isoAlpha2": "SG",
+    "isoAlpha3": "SGP",
+    "isoNumeric": "702",
+    "fipsCode": "SN",
+    "countryName": "Singapore",
+    "capital": "Singapore",
+    "continentCode": "AS",
+    "detailPath": "/countries/SG/singapore.html"
+  },
+  {
+    "isoAlpha2": "SH",
+    "isoAlpha3": "SHN",
+    "isoNumeric": "654",
+    "fipsCode": "SH",
+    "countryName": "Saint Helena",
+    "capital": "Jamestown",
+    "continentCode": "AF",
+    "detailPath": "/countries/SH/saint-helena.html"
+  },
+  {
+    "isoAlpha2": "SI",
+    "isoAlpha3": "SVN",
+    "isoNumeric": "705",
+    "fipsCode": "SI",
+    "countryName": "Slovenia",
+    "capital": "Ljubljana",
+    "continentCode": "EU",
+    "detailPath": "/countries/SI/slovenia.html"
+  },
+  {
+    "isoAlpha2": "SJ",
+    "isoAlpha3": "SJM",
+    "isoNumeric": "744",
+    "fipsCode": "SV",
+    "countryName": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "continentCode": "EU",
+    "detailPath": "/countries/SJ/svalbard-and-jan-mayen.html"
+  },
+  {
+    "isoAlpha2": "SK",
+    "isoAlpha3": "SVK",
+    "isoNumeric": "703",
+    "fipsCode": "LO",
+    "countryName": "Slovakia",
+    "capital": "Bratislava",
+    "continentCode": "EU",
+    "detailPath": "/countries/SK/slovakia.html"
+  },
+  {
+    "isoAlpha2": "SL",
+    "isoAlpha3": "SLE",
+    "isoNumeric": "694",
+    "fipsCode": "SL",
+    "countryName": "Sierra Leone",
+    "capital": "Freetown",
+    "continentCode": "AF",
+    "detailPath": "/countries/SL/sierra-leone.html"
+  },
+  {
+    "isoAlpha2": "SM",
+    "isoAlpha3": "SMR",
+    "isoNumeric": "674",
+    "fipsCode": "SM",
+    "countryName": "San Marino",
+    "capital": "San Marino",
+    "continentCode": "EU",
+    "detailPath": "/countries/SM/san-marino.html"
+  },
+  {
+    "isoAlpha2": "SN",
+    "isoAlpha3": "SEN",
+    "isoNumeric": "686",
+    "fipsCode": "SG",
+    "countryName": "Senegal",
+    "capital": "Dakar",
+    "continentCode": "AF",
+    "detailPath": "/countries/SN/senegal.html"
+  },
+  {
+    "isoAlpha2": "SO",
+    "isoAlpha3": "SOM",
+    "isoNumeric": "706",
+    "fipsCode": "SO",
+    "countryName": "Somalia",
+    "capital": "Mogadishu",
+    "continentCode": "AF",
+    "detailPath": "/countries/SO/somalia.html"
+  },
+  {
+    "isoAlpha2": "SR",
+    "isoAlpha3": "SUR",
+    "isoNumeric": "740",
+    "fipsCode": "NS",
+    "countryName": "Suriname",
+    "capital": "Paramaribo",
+    "continentCode": "SA",
+    "detailPath": "/countries/SR/suriname.html"
+  },
+  {
+    "isoAlpha2": "SS",
+    "isoAlpha3": "SSD",
+    "isoNumeric": "728",
+    "fipsCode": "OD",
+    "countryName": "South Sudan",
+    "capital": "Juba",
+    "continentCode": "AF",
+    "detailPath": "/countries/SS/south-sudan.html"
+  },
+  {
+    "isoAlpha2": "ST",
+    "isoAlpha3": "STP",
+    "isoNumeric": "678",
+    "fipsCode": "TP",
+    "countryName": "São Tomé and Príncipe",
+    "capital": "Sao Tome",
+    "continentCode": "AF",
+    "detailPath": "/countries/ST/sao-tome-and-principe.html"
+  },
+  {
+    "isoAlpha2": "SV",
+    "isoAlpha3": "SLV",
+    "isoNumeric": "222",
+    "fipsCode": "ES",
+    "countryName": "El Salvador",
+    "capital": "San Salvador",
+    "continentCode": "NA",
+    "detailPath": "/countries/SV/el-salvador.html"
+  },
+  {
+    "isoAlpha2": "SX",
+    "isoAlpha3": "SXM",
+    "isoNumeric": "534",
+    "fipsCode": "NN",
+    "countryName": "Sint Maarten",
+    "capital": "Philipsburg",
+    "continentCode": "NA",
+    "detailPath": "/countries/SX/sint-maarten.html"
+  },
+  {
+    "isoAlpha2": "SY",
+    "isoAlpha3": "SYR",
+    "isoNumeric": "760",
+    "fipsCode": "SY",
+    "countryName": "Syria",
+    "capital": "Damascus",
+    "continentCode": "AS",
+    "detailPath": "/countries/SY/syria.html"
+  },
+  {
+    "isoAlpha2": "SZ",
+    "isoAlpha3": "SWZ",
+    "isoNumeric": "748",
+    "fipsCode": "WZ",
+    "countryName": "Eswatini",
+    "capital": "Mbabane",
+    "continentCode": "AF",
+    "detailPath": "/countries/SZ/eswatini.html"
+  },
+  {
+    "isoAlpha2": "TC",
+    "isoAlpha3": "TCA",
+    "isoNumeric": "796",
+    "fipsCode": "TK",
+    "countryName": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "continentCode": "NA",
+    "detailPath": "/countries/TC/turks-and-caicos-islands.html"
+  },
+  {
+    "isoAlpha2": "TD",
+    "isoAlpha3": "TCD",
+    "isoNumeric": "148",
+    "fipsCode": "CD",
+    "countryName": "Chad",
+    "capital": "N'Djamena",
+    "continentCode": "AF",
+    "detailPath": "/countries/TD/chad.html"
+  },
+  {
+    "isoAlpha2": "TF",
+    "isoAlpha3": "ATF",
+    "isoNumeric": "260",
+    "fipsCode": "FS",
+    "countryName": "French Southern Territories",
+    "capital": "Port-aux-Francais",
+    "continentCode": "AN",
+    "detailPath": "/countries/TF/french-southern-territories.html"
+  },
+  {
+    "isoAlpha2": "TG",
+    "isoAlpha3": "TGO",
+    "isoNumeric": "768",
+    "fipsCode": "TO",
+    "countryName": "Togo",
+    "capital": "Lome",
+    "continentCode": "AF",
+    "detailPath": "/countries/TG/togo.html"
+  },
+  {
+    "isoAlpha2": "TH",
+    "isoAlpha3": "THA",
+    "isoNumeric": "764",
+    "fipsCode": "TH",
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "continentCode": "AS",
+    "detailPath": "/countries/TH/thailand.html"
+  },
+  {
+    "isoAlpha2": "TJ",
+    "isoAlpha3": "TJK",
+    "isoNumeric": "762",
+    "fipsCode": "TI",
+    "countryName": "Tajikistan",
+    "capital": "Dushanbe",
+    "continentCode": "AS",
+    "detailPath": "/countries/TJ/tajikistan.html"
+  },
+  {
+    "isoAlpha2": "TK",
+    "isoAlpha3": "TKL",
+    "isoNumeric": "772",
+    "fipsCode": "TL",
+    "countryName": "Tokelau",
+    "capital": "",
+    "continentCode": "OC",
+    "detailPath": "/countries/TK/tokelau.html"
+  },
+  {
+    "isoAlpha2": "TL",
+    "isoAlpha3": "TLS",
+    "isoNumeric": "626",
+    "fipsCode": "TT",
+    "countryName": "Timor-Leste",
+    "capital": "Dili",
+    "continentCode": "OC",
+    "detailPath": "/countries/TL/timor-leste.html"
+  },
+  {
+    "isoAlpha2": "TM",
+    "isoAlpha3": "TKM",
+    "isoNumeric": "795",
+    "fipsCode": "TX",
+    "countryName": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continentCode": "AS",
+    "detailPath": "/countries/TM/turkmenistan.html"
+  },
+  {
+    "isoAlpha2": "TN",
+    "isoAlpha3": "TUN",
+    "isoNumeric": "788",
+    "fipsCode": "TS",
+    "countryName": "Tunisia",
+    "capital": "Tunis",
+    "continentCode": "AF",
+    "detailPath": "/countries/TN/tunisia.html"
+  },
+  {
+    "isoAlpha2": "TO",
+    "isoAlpha3": "TON",
+    "isoNumeric": "776",
+    "fipsCode": "TN",
+    "countryName": "Tonga",
+    "capital": "Nuku'alofa",
+    "continentCode": "OC",
+    "detailPath": "/countries/TO/tonga.html"
+  },
+  {
+    "isoAlpha2": "TR",
+    "isoAlpha3": "TUR",
+    "isoNumeric": "792",
+    "fipsCode": "TU",
+    "countryName": "Türkiye",
+    "capital": "Ankara",
+    "continentCode": "AS",
+    "detailPath": "/countries/TR/tuerkiye.html"
+  },
+  {
+    "isoAlpha2": "TT",
+    "isoAlpha3": "TTO",
+    "isoNumeric": "780",
+    "fipsCode": "TD",
+    "countryName": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continentCode": "NA",
+    "detailPath": "/countries/TT/trinidad-and-tobago.html"
+  },
+  {
+    "isoAlpha2": "TV",
+    "isoAlpha3": "TUV",
+    "isoNumeric": "798",
+    "fipsCode": "TV",
+    "countryName": "Tuvalu",
+    "capital": "Funafuti",
+    "continentCode": "OC",
+    "detailPath": "/countries/TV/tuvalu.html"
+  },
+  {
+    "isoAlpha2": "TW",
+    "isoAlpha3": "TWN",
+    "isoNumeric": "158",
+    "fipsCode": "TW",
+    "countryName": "Taiwan",
+    "capital": "Taipei",
+    "continentCode": "AS",
+    "detailPath": "/countries/TW/taiwan.html"
+  },
+  {
+    "isoAlpha2": "TZ",
+    "isoAlpha3": "TZA",
+    "isoNumeric": "834",
+    "fipsCode": "TZ",
+    "countryName": "Tanzania",
+    "capital": "Dodoma",
+    "continentCode": "AF",
+    "detailPath": "/countries/TZ/tanzania.html"
+  },
+  {
+    "isoAlpha2": "UA",
+    "isoAlpha3": "UKR",
+    "isoNumeric": "804",
+    "fipsCode": "UP",
+    "countryName": "Ukraine",
+    "capital": "Kyiv",
+    "continentCode": "EU",
+    "detailPath": "/countries/UA/ukraine.html"
+  },
+  {
+    "isoAlpha2": "UG",
+    "isoAlpha3": "UGA",
+    "isoNumeric": "800",
+    "fipsCode": "UG",
+    "countryName": "Uganda",
+    "capital": "Kampala",
+    "continentCode": "AF",
+    "detailPath": "/countries/UG/uganda.html"
+  },
+  {
+    "isoAlpha2": "UM",
+    "isoAlpha3": "UMI",
+    "isoNumeric": "581",
+    "fipsCode": "",
+    "countryName": "U.S. Outlying Islands",
+    "capital": "",
+    "continentCode": "OC",
+    "detailPath": "/countries/UM/u-s-outlying-islands.html"
+  },
+  {
+    "isoAlpha2": "US",
+    "isoAlpha3": "USA",
+    "isoNumeric": "840",
+    "fipsCode": "US",
+    "countryName": "United States",
+    "capital": "Washington",
+    "continentCode": "NA",
+    "detailPath": "/countries/US/united-states.html"
+  },
+  {
+    "isoAlpha2": "UY",
+    "isoAlpha3": "URY",
+    "isoNumeric": "858",
+    "fipsCode": "UY",
+    "countryName": "Uruguay",
+    "capital": "Montevideo",
+    "continentCode": "SA",
+    "detailPath": "/countries/UY/uruguay.html"
+  },
+  {
+    "isoAlpha2": "UZ",
+    "isoAlpha3": "UZB",
+    "isoNumeric": "860",
+    "fipsCode": "UZ",
+    "countryName": "Uzbekistan",
+    "capital": "Tashkent",
+    "continentCode": "AS",
+    "detailPath": "/countries/UZ/uzbekistan.html"
+  },
+  {
+    "isoAlpha2": "VA",
+    "isoAlpha3": "VAT",
+    "isoNumeric": "336",
+    "fipsCode": "VT",
+    "countryName": "Vatican City",
+    "capital": "Vatican City",
+    "continentCode": "EU",
+    "detailPath": "/countries/VA/vatican-city.html"
+  },
+  {
+    "isoAlpha2": "VC",
+    "isoAlpha3": "VCT",
+    "isoNumeric": "670",
+    "fipsCode": "VC",
+    "countryName": "St Vincent and Grenadines",
+    "capital": "Kingstown",
+    "continentCode": "NA",
+    "detailPath": "/countries/VC/st-vincent-and-grenadines.html"
+  },
+  {
+    "isoAlpha2": "VE",
+    "isoAlpha3": "VEN",
+    "isoNumeric": "862",
+    "fipsCode": "VE",
+    "countryName": "Venezuela",
+    "capital": "Caracas",
+    "continentCode": "SA",
+    "detailPath": "/countries/VE/venezuela.html"
+  },
+  {
+    "isoAlpha2": "VG",
+    "isoAlpha3": "VGB",
+    "isoNumeric": "092",
+    "fipsCode": "VI",
+    "countryName": "British Virgin Islands",
+    "capital": "Road Town",
+    "continentCode": "NA",
+    "detailPath": "/countries/VG/british-virgin-islands.html"
+  },
+  {
+    "isoAlpha2": "VI",
+    "isoAlpha3": "VIR",
+    "isoNumeric": "850",
+    "fipsCode": "VQ",
+    "countryName": "U.S. Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "continentCode": "NA",
+    "detailPath": "/countries/VI/u-s-virgin-islands.html"
+  },
+  {
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "fipsCode": "VM",
+    "countryName": "Vietnam",
+    "capital": "Hanoi",
+    "continentCode": "AS",
+    "detailPath": "/countries/VN/vietnam.html"
+  },
+  {
+    "isoAlpha2": "VU",
+    "isoAlpha3": "VUT",
+    "isoNumeric": "548",
+    "fipsCode": "NH",
+    "countryName": "Vanuatu",
+    "capital": "Port Vila",
+    "continentCode": "OC",
+    "detailPath": "/countries/VU/vanuatu.html"
+  },
+  {
+    "isoAlpha2": "WF",
+    "isoAlpha3": "WLF",
+    "isoNumeric": "876",
+    "fipsCode": "WF",
+    "countryName": "Wallis and Futuna",
+    "capital": "Mata Utu",
+    "continentCode": "OC",
+    "detailPath": "/countries/WF/wallis-and-futuna.html"
+  },
+  {
+    "isoAlpha2": "WS",
+    "isoAlpha3": "WSM",
+    "isoNumeric": "882",
+    "fipsCode": "WS",
+    "countryName": "Samoa",
+    "capital": "Apia",
+    "continentCode": "OC",
+    "detailPath": "/countries/WS/samoa.html"
+  },
+  {
+    "isoAlpha2": "XK",
+    "isoAlpha3": "XKX",
+    "isoNumeric": "0",
+    "fipsCode": "KV",
+    "countryName": "Kosovo",
+    "capital": "Pristina",
+    "continentCode": "EU",
+    "detailPath": "/countries/XK/kosovo.html"
+  },
+  {
+    "isoAlpha2": "YE",
+    "isoAlpha3": "YEM",
+    "isoNumeric": "887",
+    "fipsCode": "YM",
+    "countryName": "Yemen",
+    "capital": "Sanaa",
+    "continentCode": "AS",
+    "detailPath": "/countries/YE/yemen.html"
+  },
+  {
+    "isoAlpha2": "YT",
+    "isoAlpha3": "MYT",
+    "isoNumeric": "175",
+    "fipsCode": "MF",
+    "countryName": "Mayotte",
+    "capital": "Mamoudzou",
+    "continentCode": "AF",
+    "detailPath": "/countries/YT/mayotte.html"
+  },
+  {
+    "isoAlpha2": "ZA",
+    "isoAlpha3": "ZAF",
+    "isoNumeric": "710",
+    "fipsCode": "SF",
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "continentCode": "AF",
+    "detailPath": "/countries/ZA/south-africa.html"
+  },
+  {
+    "isoAlpha2": "ZM",
+    "isoAlpha3": "ZMB",
+    "isoNumeric": "894",
+    "fipsCode": "ZA",
+    "countryName": "Zambia",
+    "capital": "Lusaka",
+    "continentCode": "AF",
+    "detailPath": "/countries/ZM/zambia.html"
+  },
+  {
+    "isoAlpha2": "ZW",
+    "isoAlpha3": "ZWE",
+    "isoNumeric": "716",
+    "fipsCode": "ZI",
+    "countryName": "Zimbabwe",
+    "capital": "Harare",
+    "continentCode": "AF",
+    "detailPath": "/countries/ZW/zimbabwe.html"
+  }
+]
