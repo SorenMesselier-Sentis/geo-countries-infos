@@ -106,7 +106,7 @@ npx ts-node testRepository.ts
 
 ---
 
-## License
+## 📄 License
 
 MIT
 

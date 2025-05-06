@@ -5,10 +5,10 @@
   "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
-    "fetch-base": "node scripts/fetchBase.js",
-    "enrich-countries": "node scripts/enrichCountries.js",
-    "get-country": "node scripts/getCountry.js"
+    "clean": "rm -rf dist",
+    "build": "npm run clean && tsc"
   },
+  "keywords": ["geonames", "countries", "scraper", "typescript", "eu", "iso"],
   "author": "SorenMesselier-Sentis",
   "license": "MIT",
   "dependencies": {
