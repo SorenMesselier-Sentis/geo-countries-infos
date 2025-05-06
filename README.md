@@ -1,7 +1,3 @@
-Absolutely! Here's a complete and professional `README.md` for your **`geo-countries-infos`** project that explains what it does, how to install it, how to use both the scraper and the repository, and includes examples.
-
----
-
 # 🌍 geo-countries-infos
 
 A TypeScript utility for scraping and querying detailed information about countries, including ISO codes, capitals, currencies, languages, EU/Schengen membership, and more.

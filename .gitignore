@@ -1,7 +1,25 @@
-# Misc
-.idea
-
-# Dependency directories
+# Node
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Env
 .env
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
