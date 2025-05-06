@@ -1,4 +1,4 @@
-import { Country } from "../../types/Country";
+import {Country} from "../types/Country";
 
 export class CountryRepository {
     /**
@@ -64,6 +64,6 @@ export class CountryRepository {
      * @returns An array of countries in the given continent.
      */
     getCountriesByContinent(continent: string): Country[] {
-        return this.countries.filter(c => c.continent === continent);
+        return this.countries.filter(c => c.continentCode === continent);
     }
 }

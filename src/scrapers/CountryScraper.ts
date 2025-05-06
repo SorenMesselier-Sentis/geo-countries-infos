@@ -1,6 +1,6 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
-import { Country } from "../../types/Country";
+import { Country } from "../types/Country";
 import * as fs from "fs";
 
 const EU_COUNTRIES: string[] = [
